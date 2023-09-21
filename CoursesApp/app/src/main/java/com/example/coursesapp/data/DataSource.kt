@@ -1,6 +1,6 @@
 package com.example.coursesapp.data
 
-import com.example.coursesapp.model.topic
+import com.example.coursesapp.model.Topic
 import com.example.coursesapp.R
 
 object DataSource {
