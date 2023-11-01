@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note1">Titulo de la nota 1</string>
+    <string name="description1">Descripcion de la nota 1</string>
+    <string name="reminder_date1">10/10/2023</string>
+    <string name="reminder1">Recordatorio 1</string>
+    <string name="desc_reminder1">Descripcion reminder 1</string>
+    <string name="reminder1_expiration">00:00</string>
+    <string name="reminder1_status">Vencido</string>
+</resources>
